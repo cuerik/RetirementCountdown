@@ -1,4 +1,4 @@
-var cacheName = 'retirement-v0.3';
+var cacheName = 'retirement-v0.31';
 var filesToCache = [
   './',
   'index.html',
